@@ -18,7 +18,7 @@ I’m currently learning the foundations of web design, and this is one of my ea
 
 ## 🖼️ Design Preview
 
-![Design Preview](Bakers-Website.png)
+![Design Preview](Bakers Website.png)
 
 
 
